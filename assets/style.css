@@ -65,3 +65,9 @@ footer img {
     margin: 0 10px 0 10px;
     cursor: pointer;
 }
+
+/* ****** */
+.portfolio {
+    color: #3e78ed;
+    padding: 10px;
+}
